@@ -1,0 +1,19 @@
+
+{
+  "name": "Koryto Dzika: Masa i Siła",
+  "short_name": "Koryto",
+  "description": "Najbardziej agresywna aplikacja z korytem dla prawdziwych byków.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#CCFF00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2554/2554042.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
